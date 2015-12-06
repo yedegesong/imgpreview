@@ -9,7 +9,7 @@ https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
 https://github.com/manuelstofer/pinchzoom
 
 ### 在线预览地址
-http://htmlpreview.github.io/?https://github.com/yedegesong/imgpreview/blob/Branch_img/demo/swipe.html
+http://yedegesong.github.io/imgpreview/
 
 ### 调用方式
 
